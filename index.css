@@ -45,4 +45,10 @@ body {
 
 .col-sm-6 > div > img {
     border-radius: 10px;
+    
+}
+
+img {
+    width: 547.02px !important;
+    height: 363.3px !important;
 }
