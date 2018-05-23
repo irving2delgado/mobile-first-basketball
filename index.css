@@ -1,0 +1,48 @@
+/* Nav bar edits*/
+body {
+    font-family: monospace; 
+}
+.form-inline {
+    padding-top: 8px;
+}
+
+.navbar {
+    background-color: #004400 !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.jumbotron {
+    background-color: #55aa55;
+}
+
+.jumbotron h1  {
+    text-align: center;
+    
+}
+
+.jumbotron p {
+    text-align: center;
+}
+
+.thumbnail {
+    text-align: center;
+    border:0;
+}
+
+.col-sm-6 {
+    border:0;
+}
+
+.row {
+    color: #004400;
+}
+
+.col-sm-6 > div > img {
+    border-radius: 10px;
+}
