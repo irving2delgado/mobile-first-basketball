@@ -19,6 +19,7 @@ body {
 
 .jumbotron {
     background-color: #55aa55;
+    	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
 }
 
 .jumbotron h1  {
